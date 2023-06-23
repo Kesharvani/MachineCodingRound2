@@ -1,0 +1,13 @@
+.home_page {
+  text-align: center;
+  /* display: flex;
+  flex-direction: column; */
+}
+.btn {
+  padding: 0.7rem;
+  font-weight: bold;
+  border-radius: 0.3rem;
+}
+.not_found_message_div {
+  text-align: center;
+}

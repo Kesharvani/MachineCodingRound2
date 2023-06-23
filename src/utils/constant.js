@@ -1,0 +1,6 @@
+export const ACTION_TYPE = {
+  SUCCESS: "SUCCESS",
+  DELETE: "DELETE",
+  ADD: "ADD",
+  ARCHIVE: "ARCHIVE"
+};

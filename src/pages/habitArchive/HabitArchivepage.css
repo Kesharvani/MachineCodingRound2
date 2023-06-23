@@ -1,0 +1,11 @@
+.archive_not_found_wrapper {
+  text-align: center;
+}
+.archive_page {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.archive_page button {
+  align-self: center;
+}
